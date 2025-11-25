@@ -3,3 +3,4 @@ pandas
 numpy
 time
 matplotlib.pyplot
+matplotlib
